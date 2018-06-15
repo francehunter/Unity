@@ -1,1 +1,1 @@
-Mini projects: algorithms and performance.
+Mini C#/Unity projects: algorithms and performance.
