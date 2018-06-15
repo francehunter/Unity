@@ -1,2 +1,2 @@
-Implementation of Deixtra A-Star algorithm.
+Mini C#/Unity3d projects: algorithms and performance.
 
