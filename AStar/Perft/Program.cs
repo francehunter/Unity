@@ -31,7 +31,7 @@ namespace Perft
             if (path != null)
             {
                 string msg = String.Format(
-                    "found time {0:F2} sec with path length {1} point(s)", 
+                    "found time {0:F4} sec with path length {1} point(s)", 
                     (DateTime.Now - st).TotalSeconds, path.Count);
                 Console.WriteLine(msg);                                        
                 foreach (Point p in path)

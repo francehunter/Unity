@@ -30,6 +30,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -42,10 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\AStar\Assets\script\astar\Point.cs" />
-	<Compile Include="..\AStar\Assets\script\astar\Reticle.cs" />
+    <Compile Include="..\Unity\Assets\script\astar\Point.cs" />
+    <Compile Include="..\Unity\Assets\script\astar\ReticleCommon.cs" />
+    <Compile Include="..\Unity\Assets\script\astar\ReticleAlgSync.cs" />
+    <Compile Include="..\Unity\Assets\script\astar\ReticleAlgAsync.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />    
+    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
