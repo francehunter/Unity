@@ -11,3 +11,4 @@ bin/
 *.config
 *.pdb
 *.manifest
+*.user
