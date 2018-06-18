@@ -7,3 +7,7 @@ bin/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
+*.exe
+*.config
+*.pdb
+*manifest
