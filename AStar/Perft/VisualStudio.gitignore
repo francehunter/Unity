@@ -10,4 +10,4 @@ bin/
 *.exe
 *.config
 *.pdb
-*manifest
+*.manifest
