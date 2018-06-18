@@ -3,4 +3,4 @@
 *.vsp
 
 # Compiler
-.bin/
+bin
