@@ -1,5 +1,0 @@
-F:\Test Task\AStar\Perft\bin\Release\Perft.exe.config
-F:\Test Task\AStar\Perft\bin\Release\Perft.exe
-F:\Test Task\AStar\Perft\bin\Release\Perft.pdb
-F:\Test Task\AStar\Perft\obj\Release\Perft.exe
-F:\Test Task\AStar\Perft\obj\Release\Perft.pdb
